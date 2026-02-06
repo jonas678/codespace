@@ -3,7 +3,7 @@
 ## CLIProxyAPI
 ### Run
 cd /workspaces/codespace/CLIProxyAPI
-nohup ./cli-proxy-ai
+nohup ./cli-proxy-api
 
 ### Build
 git clone https://github.com/router-for-me/CLIProxyAPI.git
